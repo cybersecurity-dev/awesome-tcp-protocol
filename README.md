@@ -1,2 +1,1 @@
-# awesome-tcp-protocol
-Awesome TCP Protocol
+# Awesome TCP Protocol
